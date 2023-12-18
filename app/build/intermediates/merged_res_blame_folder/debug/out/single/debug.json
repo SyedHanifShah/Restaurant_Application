@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_material_call_split.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_material_call_split.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_add_small.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/add_small.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_minus.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/minus.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_add.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/add.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_arrow_back.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/arrow_back.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_awesome_walking.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_awesome_walking.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_line.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/line.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_feather_user.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_feather_user.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/font_poppins_medium.ttf.flat",
+        "source": "com.corn.cornpos.app-main-6:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_material_directions_bike.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_material_directions_bike.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/font_poppins_semibold.ttf.flat",
+        "source": "com.corn.cornpos.app-main-6:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_dine_in.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/dine_in.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_ionic_md_key.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_ionic_md_key.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_chicken_karahi.jpg.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/chicken_karahi.jpg"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_awesome_edit.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_awesome_edit.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_feather_printer.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_feather_printer.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_watch.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/watch.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_take_away.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/take_away.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_selection.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/selection.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_corn_logo.png.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/corn_logo.png"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_table.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/table.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/font_poppins_light.ttf.flat",
+        "source": "com.corn.cornpos.app-main-6:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_search.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/search.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_awesome_list.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_awesome_list.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_md_paper.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/md_paper.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_order_detail.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/order_detail.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_rec.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_rec.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_cornpos_logo.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/cornpos_logo.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_arrow_forword.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/arrow_forword.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.corn.cornpos.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_awesome_fingerprint.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_awesome_fingerprint.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/font_poppins.ttf.flat",
+        "source": "com.corn.cornpos.app-main-6:/font/poppins.ttf"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_forgot_password_logo.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/forgot_password_logo.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_menu.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/menu.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_icon_material_dashboard.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/icon_material_dashboard.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/drawable_bin.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/drawable/bin.xml"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/font_poppins_bold.ttf.flat",
+        "source": "com.corn.cornpos.app-main-6:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.corn.cornpos.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.corn.cornpos.app-main-6:/xml/data_extraction_rules.xml"
+    }
+]

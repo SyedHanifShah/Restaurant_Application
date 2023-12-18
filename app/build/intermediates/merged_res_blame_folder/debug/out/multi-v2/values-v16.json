@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.corn.cornpos.app-mergeDebugResources-2:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d6b4e071aaef8e2e59178141845f3275/transformed/appcompat-1.2.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

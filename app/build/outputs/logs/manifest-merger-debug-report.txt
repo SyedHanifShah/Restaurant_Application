@@ -1,0 +1,710 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9badf829f11cb5ec88d43d8b18801644/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3d73d7a232c17ef7e0fe8a3ce89cea65/transformed/navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0901c04bfd9c6d730c046498499b1f79/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/666b191e27a76cdf81138a797a9d1a17/transformed/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.hilt:hilt-work:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/48cedc1035265f59db8d84a25a8b20bd/transformed/hilt-work-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0d7d19ce616c1f429e6066e33f1076e3/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/263d6c27998ab71ef45733f2b20ed8d3/transformed/hilt-android-2.44/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d6b4e071aaef8e2e59178141845f3275/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/432b7535377c6faf58254ac36b1786c6/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.24.9-beta] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1592d7f5e3cbdfe2258643b385c473da/transformed/accompanist-pager-indicators-0.24.9-beta/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-pager:0.24.9-beta] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/6155f5308ed2c633241efa742a0f00cb/transformed/accompanist-pager-0.24.9-beta/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/b71b1abe4de2c68a8ea8fb5de41fd1a6/transformed/material-ripple-1.4.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7c3c286bdc4d2cf5f530052854eb27c/transformed/material-icons-core-1.4.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.27.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/836fca29e64a4ba456dd98aedf52e9b2/transformed/accompanist-systemuicontroller-0.27.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8a81df620ee0f83cad7ee5dec7a1d6a1/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1b7b49374c13260cd9d8a87d588d5476/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e6ada2b1dcf1921c606f47e108db131c/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3b2e10fe454deaa71e74293a81a94324/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d246994140b0c698f55ae6dcac6e04d3/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/f81db606c2ed3aa3fb8588e1e84fb2f7/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/b2d2fa2773df13db6231935c3523d8c4/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/373e4f97eb2c9ee917191090317151ec/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/cb299a64ca6dcab0d308f40947929a8e/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/76102e4b34697445b04daf8c6dd57833/transformed/material-1.4.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/aa9852f6055769c851c12fba41ee4f1f/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1ccf09737512731156454478bc9cad32/transformed/snapper-0.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/988d4127fe06cebf3f090a3a777ec553/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/c8ffbe9eb538093a09d0f01a5a16515a/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/16af3327dad7054c53aa286e17720503/transformed/activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/88c60ee290f3229b5f0ebb570760aafa/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2c1373a05d36a8cd01885712b376c5e9/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/752e626cd3aca68a5160906067a9130e/transformed/activity-ktx-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/7a3b12bd53c5f84ea5585badd32d3d13/transformed/activity-compose-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime-ktx:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/abc2e64c4c674b7d2b96b1213c14b36b/transformed/work-runtime-ktx-2.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e52ade7aaaf86d345119ee8f8d322740/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/52813e17e93ce66bc7f915f552521cb3/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/52c59761218d3792db99794e2ea209cb/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/5cc363c1da7e78aa7ab189b304b98520/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/757ff269494af7a97b42a17c43091ea6/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3a637f4325c458ecc61bacb24d34b1ff/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/42c717546506fca346b6c44dd2d28d7b/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/35998824785b4cae12342b21bf81df05/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/979cfdefa03ea88a3ac01f91c94b33fa/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/95ab24d5a11e7ade7d3eed961f0ca003/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/21abd3f1d4ceadf94c40a03eebde0620/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/fad9e5a7b72e363a9ec7ec22e9751dca/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/c8f0595cf12f45a33296d4281e214fda/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/046a407645897070f7a253a45656aa5e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/78bab71e5b9b6d7f52b0b8d82dbb8f00/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/29d47e9d0f93885b544a2abc16d41fe8/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/5d78466101d5ce6f2c7d811dca381f42/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8dc146aac444ed54fbc54b1330c95eb4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9305f360326398d41f5bfda5cfab73ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/feb11b9c49805a202ab84879ccba5eee/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1e9cc4beb6d5c92c04a86d8abe4f7b45/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1ab96e48493f8190cb0d0da73419f734/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/21a7c92ce21f2fd55d17a31be67bc001/transformed/lifecycle-runtime-compose-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/a10e1b0c9464fcd6476e4a0d837eb0d2/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/23df398e1c13647960c61a5a51206680/transformed/room-ktx-2.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/02e6c91e6d4c2f17edda6beade151987/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/63c72e69985e69fe49f37274e27a5cf7/transformed/datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1d5e3bb07d980b06d1489d86d3c1d2fb/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8941032d30f2a474e1d97b99e6574fb7/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/91d668d39af5874fdb93c79dfc73971a/transformed/threetenabp-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0225aa8437431d74ced1a3cea1342e48/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1f0dadbc70765946709237c52e2f1803/transformed/sqlite-2.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/bbb6a033fe923c9d5f9f1528610e0f04/transformed/napier-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/f8388bd245b2d2fba1cf933e2c212ecd/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d94b5516d51174147bb93796058bd3aa/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ccda49420a42d18a339ba08a919cf97a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/6f23818241b62adff391dac7ae2ddac5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7fad137dcfc60406ade6e7b9a82530e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ea714fb786bdf707a1e484576d21a12a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e15c663c3f272ed0cbca08f21384dc95/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/dca25f639473acbfda11c9a6a4f46cec/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:23:5-29:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/91d668d39af5874fdb93c79dfc73971a/transformed/threetenabp-1.3.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/91d668d39af5874fdb93c79dfc73971a/transformed/threetenabp-1.3.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ccda49420a42d18a339ba08a919cf97a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ccda49420a42d18a339ba08a919cf97a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7fad137dcfc60406ade6e7b9a82530e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7fad137dcfc60406ade6e7b9a82530e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:15:9-45
+	android:dataExtractionRules
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:9:9-65
+	android:name
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:7:9-32
+activity#com.corn.cornpos.MainActivity
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:20:13-45
+	android:exported
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:28:9-30:57
+	android:resource
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:30:13-54
+	android:name
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml:29:13-43
+uses-sdk
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9badf829f11cb5ec88d43d8b18801644/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9badf829f11cb5ec88d43d8b18801644/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3d73d7a232c17ef7e0fe8a3ce89cea65/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3d73d7a232c17ef7e0fe8a3ce89cea65/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0901c04bfd9c6d730c046498499b1f79/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.2.0-alpha01] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0901c04bfd9c6d730c046498499b1f79/transformed/material3-1.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/666b191e27a76cdf81138a797a9d1a17/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/666b191e27a76cdf81138a797a9d1a17/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-work:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/48cedc1035265f59db8d84a25a8b20bd/transformed/hilt-work-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-work:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/48cedc1035265f59db8d84a25a8b20bd/transformed/hilt-work-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0d7d19ce616c1f429e6066e33f1076e3/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0d7d19ce616c1f429e6066e33f1076e3/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/263d6c27998ab71ef45733f2b20ed8d3/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/263d6c27998ab71ef45733f2b20ed8d3/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d6b4e071aaef8e2e59178141845f3275/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d6b4e071aaef8e2e59178141845f3275/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/432b7535377c6faf58254ac36b1786c6/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/432b7535377c6faf58254ac36b1786c6/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.24.9-beta] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1592d7f5e3cbdfe2258643b385c473da/transformed/accompanist-pager-indicators-0.24.9-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.24.9-beta] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1592d7f5e3cbdfe2258643b385c473da/transformed/accompanist-pager-indicators-0.24.9-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.24.9-beta] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/6155f5308ed2c633241efa742a0f00cb/transformed/accompanist-pager-0.24.9-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.24.9-beta] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/6155f5308ed2c633241efa742a0f00cb/transformed/accompanist-pager-0.24.9-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/b71b1abe4de2c68a8ea8fb5de41fd1a6/transformed/material-ripple-1.4.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/b71b1abe4de2c68a8ea8fb5de41fd1a6/transformed/material-ripple-1.4.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7c3c286bdc4d2cf5f530052854eb27c/transformed/material-icons-core-1.4.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7c3c286bdc4d2cf5f530052854eb27c/transformed/material-icons-core-1.4.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.27.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/836fca29e64a4ba456dd98aedf52e9b2/transformed/accompanist-systemuicontroller-0.27.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.27.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/836fca29e64a4ba456dd98aedf52e9b2/transformed/accompanist-systemuicontroller-0.27.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8a81df620ee0f83cad7ee5dec7a1d6a1/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8a81df620ee0f83cad7ee5dec7a1d6a1/transformed/animation-core-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1b7b49374c13260cd9d8a87d588d5476/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1b7b49374c13260cd9d8a87d588d5476/transformed/animation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e6ada2b1dcf1921c606f47e108db131c/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e6ada2b1dcf1921c606f47e108db131c/transformed/ui-tooling-data-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3b2e10fe454deaa71e74293a81a94324/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3b2e10fe454deaa71e74293a81a94324/transformed/ui-geometry-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d246994140b0c698f55ae6dcac6e04d3/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d246994140b0c698f55ae6dcac6e04d3/transformed/ui-util-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/f81db606c2ed3aa3fb8588e1e84fb2f7/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/f81db606c2ed3aa3fb8588e1e84fb2f7/transformed/ui-graphics-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/b2d2fa2773df13db6231935c3523d8c4/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/b2d2fa2773df13db6231935c3523d8c4/transformed/ui-unit-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/373e4f97eb2c9ee917191090317151ec/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/373e4f97eb2c9ee917191090317151ec/transformed/ui-tooling-preview-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/cb299a64ca6dcab0d308f40947929a8e/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/cb299a64ca6dcab0d308f40947929a8e/transformed/ui-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/76102e4b34697445b04daf8c6dd57833/transformed/material-1.4.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/76102e4b34697445b04daf8c6dd57833/transformed/material-1.4.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/aa9852f6055769c851c12fba41ee4f1f/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/aa9852f6055769c851c12fba41ee4f1f/transformed/foundation-layout-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1ccf09737512731156454478bc9cad32/transformed/snapper-0.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1ccf09737512731156454478bc9cad32/transformed/snapper-0.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/988d4127fe06cebf3f090a3a777ec553/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/988d4127fe06cebf3f090a3a777ec553/transformed/foundation-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/c8ffbe9eb538093a09d0f01a5a16515a/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/c8ffbe9eb538093a09d0f01a5a16515a/transformed/ui-text-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/16af3327dad7054c53aa286e17720503/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/16af3327dad7054c53aa286e17720503/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/88c60ee290f3229b5f0ebb570760aafa/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/88c60ee290f3229b5f0ebb570760aafa/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2c1373a05d36a8cd01885712b376c5e9/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2c1373a05d36a8cd01885712b376c5e9/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/752e626cd3aca68a5160906067a9130e/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/752e626cd3aca68a5160906067a9130e/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/7a3b12bd53c5f84ea5585badd32d3d13/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/7a3b12bd53c5f84ea5585badd32d3d13/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/abc2e64c4c674b7d2b96b1213c14b36b/transformed/work-runtime-ktx-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/abc2e64c4c674b7d2b96b1213c14b36b/transformed/work-runtime-ktx-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e52ade7aaaf86d345119ee8f8d322740/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e52ade7aaaf86d345119ee8f8d322740/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/52813e17e93ce66bc7f915f552521cb3/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/52813e17e93ce66bc7f915f552521cb3/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/52c59761218d3792db99794e2ea209cb/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/52c59761218d3792db99794e2ea209cb/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/5cc363c1da7e78aa7ab189b304b98520/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/5cc363c1da7e78aa7ab189b304b98520/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/757ff269494af7a97b42a17c43091ea6/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/757ff269494af7a97b42a17c43091ea6/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3a637f4325c458ecc61bacb24d34b1ff/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/3a637f4325c458ecc61bacb24d34b1ff/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/42c717546506fca346b6c44dd2d28d7b/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/42c717546506fca346b6c44dd2d28d7b/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/35998824785b4cae12342b21bf81df05/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/35998824785b4cae12342b21bf81df05/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/979cfdefa03ea88a3ac01f91c94b33fa/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/979cfdefa03ea88a3ac01f91c94b33fa/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/95ab24d5a11e7ade7d3eed961f0ca003/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/95ab24d5a11e7ade7d3eed961f0ca003/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/21abd3f1d4ceadf94c40a03eebde0620/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/21abd3f1d4ceadf94c40a03eebde0620/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/fad9e5a7b72e363a9ec7ec22e9751dca/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/fad9e5a7b72e363a9ec7ec22e9751dca/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/c8f0595cf12f45a33296d4281e214fda/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/c8f0595cf12f45a33296d4281e214fda/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/046a407645897070f7a253a45656aa5e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/046a407645897070f7a253a45656aa5e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/78bab71e5b9b6d7f52b0b8d82dbb8f00/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/78bab71e5b9b6d7f52b0b8d82dbb8f00/transformed/core-ktx-1.11.0-alpha04/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/29d47e9d0f93885b544a2abc16d41fe8/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/29d47e9d0f93885b544a2abc16d41fe8/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/5d78466101d5ce6f2c7d811dca381f42/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/5d78466101d5ce6f2c7d811dca381f42/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8dc146aac444ed54fbc54b1330c95eb4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8dc146aac444ed54fbc54b1330c95eb4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9305f360326398d41f5bfda5cfab73ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9305f360326398d41f5bfda5cfab73ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/feb11b9c49805a202ab84879ccba5eee/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/feb11b9c49805a202ab84879ccba5eee/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1e9cc4beb6d5c92c04a86d8abe4f7b45/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1e9cc4beb6d5c92c04a86d8abe4f7b45/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1ab96e48493f8190cb0d0da73419f734/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1ab96e48493f8190cb0d0da73419f734/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/21a7c92ce21f2fd55d17a31be67bc001/transformed/lifecycle-runtime-compose-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/21a7c92ce21f2fd55d17a31be67bc001/transformed/lifecycle-runtime-compose-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/a10e1b0c9464fcd6476e4a0d837eb0d2/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/a10e1b0c9464fcd6476e4a0d837eb0d2/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/23df398e1c13647960c61a5a51206680/transformed/room-ktx-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/23df398e1c13647960c61a5a51206680/transformed/room-ktx-2.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/02e6c91e6d4c2f17edda6beade151987/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/02e6c91e6d4c2f17edda6beade151987/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/63c72e69985e69fe49f37274e27a5cf7/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/63c72e69985e69fe49f37274e27a5cf7/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1d5e3bb07d980b06d1489d86d3c1d2fb/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1d5e3bb07d980b06d1489d86d3c1d2fb/transformed/runtime-saveable-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8941032d30f2a474e1d97b99e6574fb7/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/8941032d30f2a474e1d97b99e6574fb7/transformed/runtime-1.5.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:21:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/91d668d39af5874fdb93c79dfc73971a/transformed/threetenabp-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/91d668d39af5874fdb93c79dfc73971a/transformed/threetenabp-1.3.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0225aa8437431d74ced1a3cea1342e48/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/0225aa8437431d74ced1a3cea1342e48/transformed/sqlite-framework-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1f0dadbc70765946709237c52e2f1803/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/1f0dadbc70765946709237c52e2f1803/transformed/sqlite-2.3.0/AndroidManifest.xml:20:5-44
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/bbb6a033fe923c9d5f9f1528610e0f04/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/bbb6a033fe923c9d5f9f1528610e0f04/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/f8388bd245b2d2fba1cf933e2c212ecd/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/f8388bd245b2d2fba1cf933e2c212ecd/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d94b5516d51174147bb93796058bd3aa/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d94b5516d51174147bb93796058bd3aa/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ccda49420a42d18a339ba08a919cf97a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ccda49420a42d18a339ba08a919cf97a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/6f23818241b62adff391dac7ae2ddac5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/6f23818241b62adff391dac7ae2ddac5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7fad137dcfc60406ade6e7b9a82530e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7fad137dcfc60406ade6e7b9a82530e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ea714fb786bdf707a1e484576d21a12a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ea714fb786bdf707a1e484576d21a12a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e15c663c3f272ed0cbca08f21384dc95/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e15c663c3f272ed0cbca08f21384dc95/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/dca25f639473acbfda11c9a6a4f46cec/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/dca25f639473acbfda11c9a6a4f46cec/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yaqoobshah/Documents/AndroidStudioProjects/CornPos/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/666b191e27a76cdf81138a797a9d1a17/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/666b191e27a76cdf81138a797a9d1a17/transformed/biometric-1.1.0/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/666b191e27a76cdf81138a797a9d1a17/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/666b191e27a76cdf81138a797a9d1a17/transformed/biometric-1.1.0/AndroidManifest.xml:27:22-71
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148c12ca23625c873a7fc116ff462a6f/transformed/ui-tooling-1.5.0-alpha04/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/148b321026cdd772639e683a93f89b84/transformed/ui-test-manifest-1.5.0-alpha04/AndroidManifest.xml:24:13-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:26:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7fad137dcfc60406ade6e7b9a82530e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/d7fad137dcfc60406ade6e7b9a82530e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:33:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:30:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/ffac6319aa8f1c91a49fc98ca92e7ae7/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:25-85
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0-beta03] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/da57a6a3ce2302538c44be3c322c03a1/transformed/emoji2-1.4.0-beta03/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/9cbd6a455164aae395fdc6626a1b4c6c/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
+permission#com.corn.cornpos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
+uses-permission#com.corn.cornpos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.11.0-alpha04] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/98f4734e0f6320f1854f79f52e86a4f0/transformed/core-1.11.0-alpha04/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/e7e56952cef8a900726fd0ebcd0f9282/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yaqoobshah/Documents/My Files/Applications Workk/AndroidApp/project/WhatsApp/caches/transforms-3/2784250d6b2da5e461dbf50b2e0e3f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
